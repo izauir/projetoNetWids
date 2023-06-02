@@ -1,2 +1,2 @@
 # projetoNetWids
-Software de aprendizado infantil, projeto faculdade.
+Software de  agenda infan, trabalho faculdade.
