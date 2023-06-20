@@ -1,5 +1,5 @@
 # Netwids
-![Image 1](imgReadme/logoNetwids.png)
+![Image 1](imgReadme/logoNetwids1.png)
 
 # Sobre o projeto
 
