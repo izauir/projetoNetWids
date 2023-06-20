@@ -66,3 +66,8 @@ checar a situação da tarefa, seu prazo e quantidade de troféus.
 + image
 
 # Autores
+
+*FELIPE RAFAEL - 059402* <br>
+*GABRIEL MICHELAN - 059009* <br>
+*IZAUIR GUILHERME - 175353* <br>
+*JOYCE BARROS - 059339*
