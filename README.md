@@ -7,7 +7,7 @@ Este trabalho visa apresentar a prototipação de um software de agenda infantil
 cronograma de tarefas e suas recompensas. A plataforma oferece opções de criação de
 tarefas e gerenciamento das mesmas e leitura.
 
-## Layout mobile
+## Layout
 ![Image 2](imgReadme/01.png) ![Image 3](imgReadme/02.png)
 
 ![Image 4](imgReadme/03.png) ![Image 5](imgReadme/04.png)
