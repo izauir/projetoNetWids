@@ -1,8 +1,6 @@
 # Net Wids
 ![Image 1](imgReadme/logoNetwids.png)
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
-
 # Sobre o projeto
 
 Este trabalho visa apresentar a prototipação de um software de agenda infantil através de
@@ -19,10 +17,7 @@ tarefas e gerenciamento das mesmas e leitura.
 
 # Tecnologias utilizadas
 
-## Linguagem
-- Python
-## Ferramentas
-- Figma (construção do layout)
+As ferramentas utilizadas desde o planejar ao desenvolver do projeto foram diversas. A seguir serão citadas a maioria delas de forma objetiva. Jira, Visual Studio Code, Microsoft Word, Power Point, Excel, Sql Workbench, Figma, GitHub, Metrô Retrô, Planning Poker.
 
 # Como funciona o sistema:
 
@@ -33,9 +28,8 @@ apresentação dos termos de uso.
 aba (Se estiver o fazendo pela primeira vez o sistema cria automaticamente um 
 usuário e senha “admin”,” admin” respectivamente). Os campos para 
 preenchimento são intuitivos e descritos.
-+ **Dentro do sistema:** As funções de cada menu serão descritas abaixo.
 
-## Tarefas
+## **Dentro do sistema:** As funções de cada menu serão descritas abaixo.
 1) **Criação Tarefa:** O responsável pode fazê-lo ao selecionar a 
 opção “Tarefas” na página de menu e em seguida o símbolo “+”.
 Será direcionado a página de criação dos cartões de tarefa, onde 
@@ -53,17 +47,34 @@ contagem de troféus comparada a expectativa. O acesso é
 através da seleção do cartão de determinada tarefa, é possível 
 checar a situação da tarefa, seu prazo e quantidade de troféus.
 
-5) create file .env (can copy from .env.example)
-6) configure your database variables in .env
-7) run shell: php artisan migrate
-8) run shell: php artisan serve
+4) **Atualização:** Há um campo de busca no qual o usuário deve 
+digitar o nome da tarefa ou livro, para que o mesmo seja 
+encontrado e alterado posteriormente na tabela que aparece no 
+caso das tarefas.
 
++ **Troféus:** A página não possui campos a serem preenchidos, o acesso é 
+através da seleção da opção “Troféus” na página de menu. Nesta página 
+acontece a consulta da quantidade total de troféus em comparação a 
+quantidade de troféus necessária para determinado tipo de recompensa.
 
-+ sequency num
-+ dificult category
-+ i know
-+ user_id
-+ image
++ **Jornada:** Página em que é selecionada a escolaridade da criança 
+através de um ícone em uma barra que pode ser arrastado aos 
+indicadores do Jardim ao 2°ano, para que os livros indicados sejam de 
+acordo. Quantidade de ilustrações, necessidade de interpretação, texto, 
+tipo de letra.
+
++ **Destaques/Amigos:** A página na qual o podem ser encontrados amigos 
+e vistos os destaques postados pelos mesmos. O responsável pode os 
+gerenciar (adicionar e/ou excluí-los).
+
++ **Livros:** A página de cartões de livros, após escolher o livro e o tipo de 
+leitura, (escrita ou ouvida) são apresentadas as histórias.
+
++ **Configurações:** Nessa página se encontram as opções de temas 
+(cores), idiomas e a opção de sair da plataforma.
+
++ **Sair:** Clicando nessa opção a sessão é encerrada e se retorna a página 
+de login.
 
 # Autores
 
