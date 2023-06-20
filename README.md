@@ -1,4 +1,4 @@
-# Net Widss
+# Net Wids
 ![Image 1](imgReadme/logoNetwids.png)
 
 # Sobre o projeto
